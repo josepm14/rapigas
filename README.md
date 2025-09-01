@@ -86,5 +86,5 @@ Este proyecto está bajo la Licencia MIT.
 
 ## ✉️ Grupo 5:
 - Estudiante 1: [`PINARES MEJIA Jose Eriberto`]
-- Estudiante 2: [`Apellidos y Nombres`]
-- Estudiante 3: [`Apellidos y Nombres`]
+- Estudiante 2: [`SOSA ORTIZ Rafael`]
+- Estudiante 3: [`SENGUÑA CCANA Carlos`]
