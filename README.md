@@ -74,12 +74,7 @@ La base de datos `gestion_empleados` contiene una tabla principal:
 - Sanitización de salidas HTML
 - Manejo de errores y excepciones
 
-## 👥 Contribución
-1. Fork del repositorio
-2. Crear rama para nueva funcionalidad
-3. Commit de cambios
-4. Push a la rama
-5. Crear Pull Request
+
 
 ## 📝 Licencia
 Este proyecto está bajo la Licencia MIT.
