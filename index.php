@@ -5,7 +5,7 @@ require_once "conexion.php";
 $page = isset($_GET['page']) ? $_GET['page'] : 'principal';
 
 // Sanitizar el nombre de la página para evitar accesos indebidos
-$allowed_pages = ['principal', 'busqueda', 'configuracion'];
+$allowed_pages = ['principal', 'busqueda', 'configuracion', 'reportes'];
 if (!in_array($page, $allowed_pages)) {
     $page = 'principal';
 }
@@ -26,6 +26,7 @@ if (!in_array($page, $allowed_pages)) {
             <li><a href="index.php?page=principal" class="<?= $page=='principal' ? 'active' : '' ?>">🏠 Principal</a></li>
             <li><a href="index.php?page=busqueda" class="<?= $page=='busqueda' ? 'active' : '' ?>">🔍 Búsqueda</a></li>
             <li><a href="index.php?page=configuracion" class="<?= $page=='configuracion' ? 'active' : '' ?>">⚙️ Configuración</a></li>
+            <li><a href="index.php?page=reportes" class="<?= $page=='reportes' ? 'active' : '' ?>">⚙️ Reportes</a></li>
         </ul>
            <div class="sidebar-logo">
         <img src="logo.png" alt="Logo">

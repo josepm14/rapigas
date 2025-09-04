@@ -1,8 +1,0 @@
-{
-    "db_host": "localhost",
-    "db_name": "gestion_empleados",
-    "db_user": "",
-    "db_pass": "",
-    "company_name": "RAPIGAS",
-    "admin_email": ""
-}
