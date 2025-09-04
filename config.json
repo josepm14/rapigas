@@ -1,0 +1,8 @@
+{
+    "db_host": "localhost",
+    "db_name": "gestion_empleados",
+    "db_user": "artes",
+    "db_pass": "Artes2020**",
+    "company_name": "RAPIGAS",
+    "admin_email": ""
+}
